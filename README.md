@@ -20,11 +20,11 @@ This is what it looks like out of the box:
 
 ## Requirements
 
-* [fish](https://github.com/fish-shell/fish-shell) (v2.7.0 or higher)
+* [fish](https://github.com/fish-shell/fish-shell) (v3.0.0 or higher)
 
 ## Installation
 
-### [Fisher](https://github.com/jorgebucaran/fisher)
+### Using [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```sh
 fisher install luuknieuwdorp/vertical-fish
