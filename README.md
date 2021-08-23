@@ -69,7 +69,7 @@ will be set to the default value.
 | `VERTICAL_GIT_BRANCH_PREFIX`        | `" "`            | Git branch prefix.             |
 | `VERTICAL_GIT_SHOW`                 | `true`           | Show git indicator.            |
 | `VERTICAL_GIT_STATUS_COLOR`         | `cyan --bold`    | Git status color.              |
-| `VERTICAL_GIT_STATUS_PREFIX`        | `" ["`           | Git status prefix.             |
+| `VERTICAL_GIT_STATUS_PREFIX`        | `"["`           | Git status prefix.             |
 | `VERTICAL_GIT_STATUS_SHOW`          | `true`           | Show the git status indicator. |
 | `VERTICAL_GIT_STATUS_SUFFIX`        | `"]"`            | Git status suffix.             |
 | `VERTICAL_GIT_STATUS_SYM_ADDED`     | `"+"`            | Git added status symbol.       |
