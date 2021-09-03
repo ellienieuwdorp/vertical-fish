@@ -19,6 +19,7 @@ function fish_prompt
     __vertical_component_git_branch
     __vertical_component_dir
     __vertical_component_duration
+    __vertical_component_hostname
     echo
     __vertical_component_vert
     __vertical_component_prompt
