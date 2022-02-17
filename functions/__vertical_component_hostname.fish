@@ -1,6 +1,6 @@
 function __vertical_component_hostname -d "Print the hostname"
     # Options
-    __vertical_util_set VERTICAL_HOSTNAME_COLOR  pink
+    __vertical_util_set VERTICAL_HOSTNAME_COLOR  "ffc0cb"
     __vertical_util_set VERTICAL_HOSTNAME_PREFIX " "
     __vertical_util_set VERTICAL_HOSTNAME_SUFFIX " "
 
